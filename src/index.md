@@ -7,7 +7,7 @@ og-url: https://yoshimi-theophile.github.io
 location: Deducteam, ENS Paris-Saclay
 email: yoshimi-theophile.etienne@inria.fr
 clickable-email: false
-picture: img/profile.jpg
+picture: img/profile.jpg 
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
